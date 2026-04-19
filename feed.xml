@@ -1,17 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Podcast auf Deutsch</title>
     <link>https://dkvstrien.github.io/podcast-auf-deutsch/</link>
     <description>English podcasts translated to German with AI. Native German voices, natural conversation style.</description>
     <language>de</language>
     <itunes:author>Podcast auf Deutsch</itunes:author>
-    <itunes:category text="Education" />
+    <itunes:summary>English podcasts translated to German with AI. Native German voices, natural conversation style.</itunes:summary>
+    <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://dkvstrien.github.io/podcast-auf-deutsch/cover.jpg"/>
     <item>
       <title>[DE] Freakonomics (Test Clip)</title>
       <description>German translation of 'Freakonomics (Test Clip)' from If Books Could Kill.</description>
-      <enclosure url="https://archive.org/download/podcast-auf-deutsch-ibck-freakonomics-test/final.mp3" length="1844781" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/podcast-auf-deutsch-ibck-freakonomics-test/final.mp3" length="1844781" type="audio/mpeg"/>
       <guid isPermaLink="true">https://archive.org/download/podcast-auf-deutsch-ibck-freakonomics-test/final.mp3</guid>
       <pubDate>Sun, 19 Apr 2026 18:30:38 +0000</pubDate>
       <itunes:duration>00:01:55</itunes:duration>
