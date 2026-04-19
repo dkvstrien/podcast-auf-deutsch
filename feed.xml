@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Podcast auf Deutsch</title>
     <link>https://dkvstrien.github.io/podcast-auf-deutsch/</link>
@@ -7,18 +7,31 @@
     <language>de</language>
     <itunes:author>Podcast auf Deutsch</itunes:author>
     <itunes:summary>English podcasts translated to German with AI. Native German voices, natural conversation style.</itunes:summary>
-    <itunes:category text="Education"/>
+    <itunes:category text="Education" />
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://dkvstrien.github.io/podcast-auf-deutsch/cover.png"/>
+    <itunes:image href="https://dkvstrien.github.io/podcast-auf-deutsch/cover.png" />
     <item>
       <title>[DE] Freakonomics (Test Clip)</title>
       <description>German translation of 'Freakonomics (Test Clip)' from If Books Could Kill.</description>
-      <enclosure url="https://archive.org/download/podcast-auf-deutsch-ibck-freakonomics-test/final.mp3" length="1844781" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/podcast-auf-deutsch-ibck-freakonomics-test/final.mp3" length="1844781" type="audio/mpeg" />
       <guid isPermaLink="true">https://archive.org/download/podcast-auf-deutsch-ibck-freakonomics-test/final.mp3</guid>
       <pubDate>Sun, 19 Apr 2026 18:30:38 +0000</pubDate>
       <itunes:duration>00:01:55</itunes:duration>
       <itunes:author>If Books Could Kill</itunes:author>
       <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[DE] Freakonomics — If Books Could Kill</title>
+      <description>🇩🇪 KI-Übersetzung | Original: If Books Could Kill
+
+In 2005, two men named Steven and Stephen published the quintessential airport book. In 2022, two men named Mike and Peter started a whole podcast just to make fun of it.</description>
+      <enclosure url="https://archive.org/download/podcast-auf-deutsch-ibck-freakonomics/final.mp3" length="71007789" type="audio/mpeg" />
+      <guid isPermaLink="true">https://archive.org/download/podcast-auf-deutsch-ibck-freakonomics/final.mp3</guid>
+      <pubDate>Sun, 19 Apr 2026 19:27:03 +0000</pubDate>
+      <itunes:duration>01:13:57</itunes:duration>
+      <itunes:author>If Books Could Kill</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://static.pocketcasts.com/discover/images/webp/480/c1f1e8b0-3c87-013b-efca-0acc26574db2.webp" />
     </item>
   </channel>
 </rss>
